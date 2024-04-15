@@ -24,6 +24,21 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/8752a0e4-a78d-47d1-9d3e-e8f96821483b)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/88b8fe61-306f-4c38-87c6-aaa24640e871)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/4f9b0e0e-59ff-42a2-b058-772d1fd2b664)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/b7766ce5-73d9-4c4e-958f-5eb40ca7d800)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/4fd837a3-876b-40cc-a36e-5013566bb726)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/dc4c624d-7a14-4768-87c0-b4130dd7ffb8)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/41af2d8c-2acf-4e1a-97d3-c597048c5483)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/6cb32986-9a20-4488-83dd-42bd666a8708)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/15ea64fc-32f9-40e1-80b6-bb011900ee94)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/450ac3ef-b3e2-4f2e-a611-c6ff5fb72b66)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/e791cf5d-173d-48d8-9ea9-245ba1d2c66e)
+![image](https://github.com/bhavatharanisiva7418/EXNO-4-DS/assets/147473922/6ac49ccd-33be-4f70-8372-63b46e5e91a7)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature selection process was executed successfully.
+
+
